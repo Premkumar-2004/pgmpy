@@ -26,3 +26,4 @@ class Goldberg(_CovarianceMixin, _BaseDataset):
     data_url = base_url + "data/goldberg.cov.txt"
     ground_truth_url = None
     expert_knowledge_url = None
+n cmnc vmsna cb
